@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+#form-nou {
+  display: grid;
+  width: 400px;
+}
+
+#eroare-post {
+  color: red;
+  font-weight: bold;
+}
+
+#container-produse {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  border: 1px solid black;
+}
+
+@media (max-width: 500px) {
+  #form-nou {
+    width: 100%;
+  }
+}
