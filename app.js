@@ -86,3 +86,10 @@ formular.addEventListener('submit', async function(eveniment) {
     eroarePost.textContent = eroare.message;
   }
 });
+
+container.addEventListener('click', function(e) {
+  if (e.target.className === 'buton-sterge') {
+    const card = e.target.closest('.card');
+    card.remove();
+  }
+});
