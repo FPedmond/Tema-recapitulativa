@@ -12,3 +12,4 @@ Nu am avut eroarea CORS deoarece API-ul DummyJSON este public. Trimite automat r
 **Erori retea:** daca cererea sau netul pica, eroare ajunge in catch si va fi afisata cu rosu pe pagina
 
 **SITE:** https://fpedmond.github.io/Tema-recapitulativa/
+**Repo:** https://github.com/FPEdmond/Tema-recapitulativa
