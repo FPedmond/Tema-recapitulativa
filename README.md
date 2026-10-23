@@ -11,4 +11,4 @@ Nu am avut eroarea CORS deoarece API-ul DummyJSON este public. Trimite automat r
 **Erori server (4xx, 5xx):** fetch nu se opreste singur daca serverul da eroare, asa ca am pus eu if(!cerere.ok) ca sa prinda eroarea
 **Erori retea:** daca cererea sau netul pica, eroare ajunge in catch si va fi afisata cu rosu pe pagina
 
-**Repo:** https://fpedmond.github.io/Tema-recapitulativa/
+**SITE:** https://fpedmond.github.io/Tema-recapitulativa/
